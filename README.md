@@ -1,4 +1,4 @@
-## Hey, I'm Brian!
+## Hey, I'm Brian! :D
 
 I'm currently pursuing my Bachelor's in Computer Science at California State University, Fullerton, where I’m developing a strong foundation in software engineering, AI/ML, and innovative problem-solving. I’m passionate about using technology to drive innovation and tackle complex challenges, and I'm always eager to learn new skills to stay ahead in our ever-evolving digital world.
 
