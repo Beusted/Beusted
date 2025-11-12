@@ -6,6 +6,6 @@ Every day I strive to grow, learning from my experiences and pushing myself to b
 
 When I'm not immersed in technology, you'll likely find me dancing, listening to music, attending concerts and festivals, exploring new restaurants, and nature destinations.
 
-Feel free to check out my [portfolio website](https://portfoliowebsite-eight-taupe.vercel.app/) which include ways to contact me, as well as my other projects/experience!
+Feel free to check out my [portfolio website](https://www.ngobrian.dev/) which include ways to contact me, as well as my other projects/experience!
 
 I’d be happy to hear from you :)
